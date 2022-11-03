@@ -1,6 +1,6 @@
 # AmygdalaFC
 
-This is a repository for the minimal data set for PlosOne submission.
+This is a repository for the minimal data set for our PlosOne submission:
 
 Contributions of human amygdala nuclei to resting-state networks. Arguizones, U., Seoane, S., Janssen, J., & Janssen, N. (in revision).
 
